@@ -6,6 +6,7 @@ Grupo 32 - Autores:
 - Cristiane Aline Fischer
 - Pedro Baldini
 - Vinícius Prado Lima
+- Vitor Sarilio
 
 **[Link do artigo](https://medium.com/grupo-32/prevendo-o-ibovespa-com-python-1cbda2a3c824)**
 
