@@ -7,7 +7,7 @@ Grupo 32 - Autores:
 - Pedro Baldini
 - Vinícius Prado Lima
 
-**[Link do artigo](COLOCAR LINK MEDIUM)**
+**[Link do artigo](https://medium.com/grupo-32/prevendo-o-ibovespa-com-python-1cbda2a3c824)**
 
 ---
 
