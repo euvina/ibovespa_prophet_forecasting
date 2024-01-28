@@ -6,7 +6,6 @@ Grupo 32 - Autores:
 - Cristiane Aline Fischer
 - Pedro Baldini
 - Vinícius Prado Lima
-- Vitor Sarilio
 
 **[Link do artigo](COLOCAR LINK MEDIUM)**
 
