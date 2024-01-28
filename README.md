@@ -1,4 +1,4 @@
-# Prevendo o fechamento do índice Ibovespa com Prophet no Python
+# Prevendo o índice Ibovespa com Prophet no Python
 
 *FIAP: Pós Tech - Data Analytics Tech Challenge #02*
 
